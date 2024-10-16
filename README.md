@@ -59,4 +59,17 @@ This project utilizes the **AWS SageMaker Autopilot** to automate machine learni
 This project is licensed under the MIT License - see the LICENSE file at the following link for details: https://www.mit.edu/~amini/LICENSE.md.
 ![image](https://github.com/user-attachments/assets/c1a2b199-74b5-402c-a75a-d3b31e318293)
 
+![image](https://github.com/user-attachments/assets/32f8f2a4-786c-44fe-9d0b-39f559c6f3ba)
+![image](https://github.com/user-attachments/assets/1ed740da-78eb-46b4-814b-4a46a046d610)
+
+
+![image](https://github.com/user-attachments/assets/ca70ed13-436a-44dd-baa1-da1575459f8b)
+
+
+![image](https://github.com/user-attachments/assets/ab8325ed-0a23-4de4-8ed5-a2256b133c4e)
+
+![image](https://github.com/user-attachments/assets/cb67e8bf-d170-419a-bc68-13efd30439ae)
+
+
+
 
